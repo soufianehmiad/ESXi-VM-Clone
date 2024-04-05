@@ -11,7 +11,7 @@ This script allows you to clone a virtual machine (VM) on an ESXi host. It lists
 ## Usage
 1. Clone or download the script.
 2. Modify the `datastore_path` variable in the script to match your ESXi datastore path.
-3. Run the script using Python (`python script.py`) on your local machine or directly on the ESXi server.
+3. Run the script using Python (`python vm-clone.py`) on your local machine or directly on the ESXi server.
 
 ## Features
 - Interactive command-line interface for selecting VMs and providing clone names.
